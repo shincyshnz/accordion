@@ -1,0 +1,16 @@
+
+#root {
+    width: 100%;
+    background-color: #FAFAFA;
+}
+.btns-container {
+    text-align: center;
+    padding: 2rem;
+    border-bottom: 1px solid black;
+}
+
+.main-btns {
+    width: 200px;
+    background-color: #d5d7f89a;
+    margin: 10px;
+  }
